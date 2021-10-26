@@ -36,7 +36,7 @@ Put differently, what was once a virtuous loop has become a vicious loop that ho
 
 ## The Great Decoupling
 
-To understand what is happening to the job loop, we need to look at a change in the economy that has become known as “the Great Decoupling” (Bernstein & Raman, 2015). In the decades after Worl War II, as the US economy grew, the share of Gross Domestic Product (GDP) going to labor grew at the same rate. However, starting in the mid-1970s, GDP continued to grow while household income remained flat (Economic Policy Institute, n.d.).
+To understand what is happening to the job loop, we need to look at a change in the economy that has become known as “the Great Decoupling” (Bernstein & Raman, 2015). In the decades after Worl War II, as the US economy grew, the share of Gross Domestic Product (GDP) going to labor grew at the same rate. However, starting in the mid-1970s, GDP continued to grow while household income remained flat (Bivens & Mishel, 2015).
 
 ![The Great Decoupling](../assets/great-decoupling.png)
 
